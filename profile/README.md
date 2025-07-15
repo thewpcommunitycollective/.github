@@ -34,7 +34,7 @@ Public-facing documentation and coordination for current projects and initiative
 - [`fellowships`](https://github.com/thewpcommunitycollective/fellowships) — Fellowships program
 - [`rapid-response`](https://github.com/thewpcommunitycollective/rapid-response) — Community rapid response coordination
 
-#### Policies & Docs
+#### Policies & Practices
 - [`policies`](https://github.com/thewpcommunitycollective/policies) — Governance policies for The WPCC
 - [`practices`](https://github.com/thewpcommunitycollective/practices) — Operational practices for The WPCC
   
