@@ -2,7 +2,7 @@
 
 **The WP Community Collective (The WPCC)** is an independent member-driven nonprofit organization dedicated to strengthening open source contribution by supporting the people and communities who sustain it.
 
-Our values are center in open governance, transparency, and collective action. This GitHub organization houses the operational, administrative, and programmatic infrastructure for The WPCC, including documentation of active projects, governance policies, and archives.
+Our values are centered in open governance, transparency, and collective action. This GitHub account houses the operational, administrative, and programmatic infrastructure for The WPCC, including documentation of active projects, governance policies, and archives.
 
 > ***The sustainability of open source technology depends on the wellbeing of the people and communities who contribute to it.***
 
