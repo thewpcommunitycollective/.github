@@ -57,8 +57,8 @@ For managing and documenting participation, voting, and feedback from members of
 Internal operations, administration, and infrastructure. These repositories are open to The WPCC board and staff, as well as members and collaborators.
 
 - [`operations`](https://github.com/thewpcommunitycollective/operations) — General operations and internal documentation
-- [`operations-internal-projects`](https://github.com/thewpcommunitycollective/ops-internal-projects) — Staff-led internal projects and initiatives
-- [`operations-onboarding`](https://github.com/thewpcommunitycollective/ops-onboarding) — Onboarding resources for staff and collaborators
+- [`operations-internal-projects`](https://github.com/thewpcommunitycollective/operations-internal-projects) — Staff-led internal projects and initiatives
+- [`operations-onboarding`](https://github.com/thewpcommunitycollective/operations-onboarding) — Onboarding resources for staff and collaborators
 
 
 ### Board Repositories
