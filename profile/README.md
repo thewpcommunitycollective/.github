@@ -36,7 +36,7 @@ Public-facing documentation and coordination for current projects and initiative
 
 #### Policies & Docs
 - [`policies`](https://github.com/thewpcommunitycollective/policies) — Governance policies for The WPCC
-- [`practices`](https://github.com/thewpcommunitycollective/docs) — Operational practives for The WPCC
+- [`practices`](https://github.com/thewpcommunitycollective/practices) — Operational practices for The WPCC
   
 #### Archives
 Completed programs and organization records.
@@ -50,7 +50,7 @@ Completed programs and organization records.
 For managing and documenting participation, voting, and feedback from members of The WPCC. These repositories are open to active members of The WPCC.
 
 - [`member-voting`](https://github.com/thewpcommunitycollective/member-voting) — Member-facing votes and proposals
-- [`member-docs`](https://github.com/thewpcommunitycollective/member-docs) — Guides and FAQs for members
+- [`member-materials`](https://github.com/thewpcommunitycollective/member-materials) — Guides and FAQs for members
 - [`member-input`](https://github.com/thewpcommunitycollective/member-input) — Member input management
 
 ### Operations Repositories
