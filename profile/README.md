@@ -49,9 +49,9 @@ Completed programs and organization records.
 ### Member Repositories
 For managing and documenting participation, voting, and feedback from members of The WPCC. These repositories are open to active members of The WPCC.
 
-- [`member-voting`](https://github.com/thewpcommunitycollective/member-voting) — Member-facing votes and proposals
-- [`member-materials`](https://github.com/thewpcommunitycollective/member-materials) — Guides and FAQs for members
-- [`member-input`](https://github.com/thewpcommunitycollective/member-input) — Member input management
+- [`members-voting`](https://github.com/thewpcommunitycollective/members-voting) — Member-facing votes and proposals
+- [`members-materials`](https://github.com/thewpcommunitycollective/members-materials) — Guides and FAQs for members
+- [`members-input`](https://github.com/thewpcommunitycollective/members-input) — Member input management
 
 ### Operations Repositories
 Internal operations, administration, and infrastructure. These repositories are open to The WPCC board and staff, as well as members and collaborators.
