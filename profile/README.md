@@ -23,10 +23,10 @@ Learn more about The WP Community Collective at [thewpcommunitycollective.com](h
 The WP Community Collective's GitHub repositories are structured to support transparency, accountability, and collaboration across all areas of The WPCC operations.
 
 
-### (Public Repositories)[https://github.com/thewpcommunitycollective/public] 
+### [Public Repositories](https://github.com/thewpcommunitycollective/public) 
 These repositories are open to the general public.
 
-#### (Active Programs)[https://github.com/thewpcommunitycollective/programs]
+#### [Active Programs](https://github.com/thewpcommunitycollective/programs)
 Public-facing documentation and coordination for current projects and initiatives.
 
 - [`projects`](https://github.com/thewpcommunitycollective/projects) — Active projects 
@@ -38,7 +38,7 @@ Public-facing documentation and coordination for current projects and initiative
 - [`policies`](https://github.com/thewpcommunitycollective/policies) — Governance policies for The WPCC
 - [`practices`](https://github.com/thewpcommunitycollective/practices) — Operational practices for The WPCC
   
-#### (Archive)[https://github.com/thewpcommunitycollective/archive]
+#### [Archive](https://github.com/thewpcommunitycollective/archive)
 Completed programs and organization records.
 
 - [`archive-meetings`](https://github.com/thewpcommunitycollective/archive-meetings)
@@ -46,21 +46,21 @@ Completed programs and organization records.
 - [`archive-financials`](https://github.com/thewpcommunitycollective/archive-financials)
 - [`archive-programs`](https://github.com/thewpcommunitycollective/archive-programs)
 
-### (Member Repositories)[https://github.com/thewpcommunitycollective/members]
+### [Member Repositories](https://github.com/thewpcommunitycollective/members)
 For managing and documenting participation, voting, and feedback from members of The WPCC. These repositories are open to active members of The WPCC.
 
 - [`members-voting`](https://github.com/thewpcommunitycollective/members-voting) — Member-facing votes and proposals
 - [`members-materials`](https://github.com/thewpcommunitycollective/members-materials) — Guides and FAQs for members
 - [`members-input`](https://github.com/thewpcommunitycollective/members-input) — Member input management
 
-### (Operations Repositories)[https://github.com/thewpcommunitycollective/operations]
+### [Operations Repositories](https://github.com/thewpcommunitycollective/operations)
 Internal operations, administration, and infrastructure. These repositories are open to The WPCC board and staff, as well as members and collaborators.
 
 - [`operations`](https://github.com/thewpcommunitycollective/operations) — General operations and internal documentation
 - [`operations-internal-projects`](https://github.com/thewpcommunitycollective/operations-internal-projects) — Staff-led internal projects and initiatives
 - [`operations-onboarding`](https://github.com/thewpcommunitycollective/operations-onboarding) — Onboarding resources for staff and collaborators
 
-### (Board Repositories)[https://github.com/thewpcommunitycollective/board]
+### [Board Repositories](https://github.com/thewpcommunitycollective/board)
 Management and administration of The WPCC Board of Directors, including discussions and voting. These repositories are open to active members of The WPCC Board of Directors.
 
 - [`board-management`](https://github.com/thewpcommunitycollective/board-management) — Board management and administration
