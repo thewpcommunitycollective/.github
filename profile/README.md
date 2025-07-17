@@ -79,7 +79,6 @@ To get involved or learn more:
 - [Read our Policies](https://www.thewpcommunitycollective.com/about/organization-documents/)
 - [Explore our Programs](https://github.com/thewpcommunitycollective/programs)
 
-For questions or inquiries, contact info@thewpcommunitycollective.com.
-- Contact the WPCC team directly at [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com)
+For general questions or inquiries, contact The WPCC at [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com)
 
 All contributions and engagement are subject to [The WPCC Code of Conduct](https://www.thewpcommunitycollective.com/about/code-of-conduct/).
