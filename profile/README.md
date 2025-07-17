@@ -38,7 +38,7 @@ Public-facing documentation and coordination for current projects and initiative
 - [`policies`](https://github.com/thewpcommunitycollective/policies) — Governance policies for The WPCC
 - [`practices`](https://github.com/thewpcommunitycollective/practices) — Operational practices for The WPCC
   
-#### [Archive](https://github.com/thewpcommunitycollective/archive)
+#### [Archives](https://github.com/thewpcommunitycollective/archive)
 Completed programs and organization records.
 
 - [`archive-meetings`](https://github.com/thewpcommunitycollective/archive-meetings)
@@ -57,26 +57,29 @@ For managing and documenting participation, voting, and feedback from members of
 Internal operations, administration, and infrastructure. These repositories are open to The WPCC board and staff, as well as members and collaborators.
 
 - [`operations`](https://github.com/thewpcommunitycollective/operations) — General operations and internal documentation
-- [`operations-internal-projects`](https://github.com/thewpcommunitycollective/operations-internal-projects) — Staff-led internal projects and initiatives
 - [`operations-onboarding`](https://github.com/thewpcommunitycollective/operations-onboarding) — Onboarding resources for staff and collaborators
+- [`operations-internal-projects`](https://github.com/thewpcommunitycollective/operations-internal-projects) — Staff-led internal projects and initiatives
+  - [`operations-internal-projects-website`](https://github.com/thewpcommunitycollective/operations-internal-projects-website/) — Planning, maintenance, and development of The WP Community Collective’s public website 
 
 ### 🔒 [Board Repositories](https://github.com/thewpcommunitycollective/board)
 Management and administration of The WPCC Board of Directors, including discussions and voting. These repositories are open to active members of The WPCC Board of Directors.
 
-- [`board-management`](https://github.com/thewpcommunitycollective/board-management) — Board management and administration
 - [`board-actions`](https://github.com/thewpcommunitycollective/board-actions) — Formal votes, approvals, and reviews. 
 - [`board-materials`](https://github.com/thewpcommunitycollective/board-materials) — Board information, guides and FAQs
 
 ---
 
-## Get Involved
+## Contributing
+
+The WPCC welcomes and encourages collaboration from individuals and organizations aligned with our mission and values. This repository is open for public engagement and participation.
+
+To get involved or learn more:
 
 - [Join The WPCC](https://www.thewpcommunitycollective.com/join/)
 - [Read our Policies](https://www.thewpcommunitycollective.com/about/organization-documents/)
 - [Explore our Programs](https://github.com/thewpcommunitycollective/programs)
 
-For questions, feedback, or partnership inquiries, contact us at [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com).
+For questions or inquiries, contact info@thewpcommunitycollective.com.
+- Contact the WPCC team directly at [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com)
 
-
-
-
+All contributions and engagement are subject to [The WPCC Code of Conduct](https://www.thewpcommunitycollective.com/about/code-of-conduct/).
