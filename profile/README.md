@@ -26,13 +26,13 @@ The WP Community Collective's GitHub repositories are structured to support tran
 ### 🌐 [Public Repositories](https://github.com/thewpcommunitycollective/public) 
 These repositories are open to the general public.
 
-#### [Active Programs](https://github.com/thewpcommunitycollective/programs)
-Public-facing documentation and coordination for current projects and initiatives.
+#### [Programs](https://github.com/thewpcommunitycollective/programs)
+Public-facing documentation and coordination for active projects and initiatives.
 
-- [`projects`](https://github.com/thewpcommunitycollective/projects) — Active projects 
-- [`initiatives`](https://github.com/thewpcommunitycollective/initiatives) Active initiatives
-- [`fellowships`](https://github.com/thewpcommunitycollective/fellowships) — Fellowships program
-- [`rapid-response`](https://github.com/thewpcommunitycollective/rapid-response) — Community rapid response coordination
+- [`projects`](https://github.com/thewpcommunitycollective/programs/tree/main/fellowships) — Active projects 
+- [`initiatives`](https://github.com/thewpcommunitycollective/programs/tree/main/initiatives) Active initiatives
+- [`fellowships`](https://github.com/thewpcommunitycollective/programs/tree/main/fellowships) — Fellowships program
+- [`rapid-response`](https://github.com/thewpcommunitycollective/programs/tree/main/rapid-response) — Community rapid response coordination
 
 #### [Processes](https://github.com/thewpcommunitycollective/processes)
 - [`policies`](https://github.com/thewpcommunitycollective/processes/tree/main/policies) — Governance policies for The WPCC
